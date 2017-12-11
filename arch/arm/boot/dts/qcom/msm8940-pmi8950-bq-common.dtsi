@@ -80,3 +80,11 @@
 	qcom,usbin-vadc = <&pmi8950_vadc>;
 	qcom,hsusb-otg-phy-init-seq = <0x39 0x81 0x37 0x82 0xffffffff>;
 };
+
+/ {
+	reserved-memory {
+		secure_mem: secure_region@0 {
+			status="disabled";
+		};
+	};
+};

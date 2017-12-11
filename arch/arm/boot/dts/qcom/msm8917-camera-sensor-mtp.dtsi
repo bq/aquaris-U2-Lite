@@ -248,8 +248,8 @@
 		qcom,mem1 = <0 0x0 2 0x0 1 0>;
 		//read page 4 value
 		qcom,page2 = <1 0x0a00 2 0x01 1 0>;
-		qcom,poll2 = <0 0x0 2 0x0 1 0>;
-		qcom,mem2 = <64 0x0a04 2 0x0 1 0>;
+		qcom,poll2 = <0 0x0 2 0x0 1 5>;
+		qcom,mem2 = <64 0x0a04 2 0x0 1 1>;
 		//init 
 		qcom,page3 = <1 0x0a00 2 0x04 1 1>;
 		qcom,poll3 = <0 0x0 2 0x0 1 0>;
@@ -260,8 +260,8 @@
 		qcom,mem4 = <0 0x0 2 0x0 1 0>;
 		//read page 5 value
 		qcom,page5 = <1 0x0a00 2 0x01 1 0>;
-		qcom,poll5 = <0 0x0 2 0x0 1 0>;
-		qcom,mem5 = <64 0x0a04 2 0x0 1 0>;
+		qcom,poll5 = <0 0x0 2 0x0 1 5>;
+		qcom,mem5 = <64 0x0a04 2 0x0 1 1>;
 		//init 
 		qcom,page6 = <1 0x0a00 2 0x04 1 1>;
 		qcom,poll6 = <0 0x0 2 0x0 1 0>;
@@ -272,8 +272,8 @@
 		qcom,mem7 = <0 0x0 2 0x0 1 0>;
 		//read page 6 value
 		qcom,page8 = <1 0x0a00 2 0x01 1 0>;
-		qcom,poll8 = <0 0x0 2 0x0 1 0>;
-		qcom,mem8 = <64 0x0a04 2 0x0 1 0>;
+		qcom,poll8 = <0 0x0 2 0x0 1 5>;
+		qcom,mem8 = <64 0x0a04 2 0x0 1 1>;
 		//init 
 		qcom,page9 = <1 0x0a00 2 0x04 1 1>;
 		qcom,poll9 = <0 0x0 2 0x0 1 0>;
@@ -284,8 +284,8 @@
 		qcom,mem10 = <0 0x0 2 0x0 1 0>;
 		//read page 7 value
 		qcom,page11 = <1 0x0a00 2 0x01 1 0>;
-		qcom,poll11 = <0 0x0 2 0x0 1 0>;
-		qcom,mem11 = <64 0x0a04 2 0x0 1 0>;		
+		qcom,poll11 = <0 0x0 2 0x0 1 5>;
+		qcom,mem11 = <64 0x0a04 2 0x0 1 1>;		
 		//init 
 		qcom,page12 = <1 0x0a00 2 0x04 1 1>;
 		qcom,poll12 = <0 0x0 2 0x0 1 0>;
@@ -296,8 +296,8 @@
 		qcom,mem13 = <0 0x0 2 0x0 1 0>;
 		//read page 8 value
 		qcom,page14 = <1 0x0a00 2 0x01 1 0>;
-		qcom,poll14 = <0 0x0 2 0x0 1 0>;
-		qcom,mem14 = <64 0x0a04 2 0x0 1 0>;		
+		qcom,poll14 = <0 0x0 2 0x0 1 5>;
+		qcom,mem14 = <64 0x0a04 2 0x0 1 1>;		
 		//init 
 		qcom,page15 = <1 0x0a00 2 0x04 1 1>;
 		qcom,poll15 = <0 0x0 2 0x0 1 0>;
@@ -308,8 +308,8 @@
 		qcom,mem16 = <0 0x0 2 0x0 1 0>;
 		//read page 9 value
 		qcom,page17 = <1 0x0a00 2 0x01 1 0>;
-		qcom,poll17 = <0 0x0 2 0x0 1 0>;
-		qcom,mem17 = <64 0x0a04 2 0x0 1 0>;		
+		qcom,poll17 = <0 0x0 2 0x0 1 5>;
+		qcom,mem17 = <64 0x0a04 2 0x0 1 1>;		
 		//init 
 		qcom,page18 = <1 0x0a00 2 0x04 1 1>;
 		qcom,poll18 = <0 0x0 2 0x0 1 0>;
@@ -320,8 +320,8 @@
 		qcom,mem19 = <0 0x0 2 0x0 1 0>;
 		//read page 10 value
 		qcom,page20 = <1 0x0a00 2 0x01 1 0>;
-		qcom,poll20 = <0 0x0 2 0x0 1 0>;
-		qcom,mem20 = <64 0x0a04 2 0x0 1 0>;		
+		qcom,poll20 = <0 0x0 2 0x0 1 5>;
+		qcom,mem20 = <64 0x0a04 2 0x0 1 1>;		
 		//init 
 		qcom,page21 = <1 0x0a00 2 0x04 1 1>;
 		qcom,poll21 = <0 0x0 2 0x0 1 0>;
@@ -332,8 +332,8 @@
 		qcom,mem22 = <0 0x0 2 0x0 1 0>;
 		//read page 11 value
 		qcom,page23 = <1 0x0a00 2 0x01 1 0>;
-		qcom,poll23 = <0 0x0 2 0x0 1 0>;
-		qcom,mem23 = <64 0x0a04 2 0x0 1 0>;		
+		qcom,poll23 = <0 0x0 2 0x0 1 5>;
+		qcom,mem23 = <64 0x0a04 2 0x0 1 1>;		
 		//init 
 		qcom,page24 = <1 0x0a00 2 0x04 1 1>;
 		qcom,poll24 = <0 0x0 2 0x0 1 0>;
@@ -344,8 +344,8 @@
 		qcom,mem25 = <0 0x0 2 0x0 1 0>;
 		//read page 12 value
 		qcom,page26 = <1 0x0a00 2 0x01 1 0>;
-		qcom,poll26 = <0 0x0 2 0x0 1 0>;
-		qcom,mem26 = <64 0x0a04 2 0x0 1 0>;		
+		qcom,poll26 = <0 0x0 2 0x0 1 5>;
+		qcom,mem26 = <64 0x0a04 2 0x0 1 1>;		
 		//init 
 		qcom,page27 = <1 0x0a00 2 0x04 1 1>;
 		qcom,poll27 = <0 0x0 2 0x0 1 0>;
@@ -356,8 +356,8 @@
 		qcom,mem28 = <0 0x0 2 0x0 1 0>;
 		//read page 13 value
 		qcom,page29 = <1 0x0a00 2 0x01 1 0>;
-		qcom,poll29 = <0 0x0 2 0x0 1 0>;
-		qcom,mem29 = <64 0x0a04 2 0x0 1 0>;		
+		qcom,poll29 = <0 0x0 2 0x0 1 5>;
+		qcom,mem29 = <64 0x0a04 2 0x0 1 1>;		
 		//init 
 		qcom,page30 = <1 0x0a00 2 0x04 1 1>;
 		qcom,poll30 = <0 0x0 2 0x0 1 0>;
@@ -368,8 +368,8 @@
 		qcom,mem31 = <0 0x0 2 0x0 1 0>;
 		//read page 14 value
 		qcom,page32 = <1 0x0a00 2 0x01 1 0>;
-		qcom,poll32 = <0 0x0 2 0x0 1 0>;
-		qcom,mem32 = <64 0x0a04 2 0x0 1 0>;			
+		qcom,poll32 = <0 0x0 2 0x0 1 5>;
+		qcom,mem32 = <64 0x0a04 2 0x0 1 1>;			
 		//init 
 		qcom,page33 = <1 0x0a00 2 0x04 1 1>;
 		qcom,poll33 = <0 0x0 2 0x0 1 0>;
@@ -380,8 +380,8 @@
 		qcom,mem34= <0 0x0 2 0x0 1 0>;
 		//read page 15 value
 		qcom,page35 = <1 0x0a00 2 0x01 1 0>;
-		qcom,poll35 = <0 0x0 2 0x0 1 0>;
-		qcom,mem35 = <56 0x0a04 2 0x0 1 0>;		
+		qcom,poll35 = <0 0x0 2 0x0 1 5>;
+		qcom,mem35 = <56 0x0a04 2 0x0 1 1>;		
 
 
 		
@@ -436,7 +436,87 @@
 		clock-names = "cam_src_clk", "cam_clk";
 		qcom,clock-rates = <19200000 0>;
 	};
+	
+	eeprom3: qcom,eeprom@3{
+		compatible = "qcom,eeprom";
+		cell-index = <3>;		
+		reg = <0x3>;
 		
+		qcom,eeprom-name = "truly_s5k4h8_yamcha";
+		qcom,slave-addr = <0x5a>;
+		qcom,num-blocks = <5>;
+		qcom,cci-master = <0>;
+		
+   		//qcom,saddr0 = <0x20>;
+		qcom,page0 = <1 0x0100 2 0x01 1 1>;
+		qcom,poll0 = <0 0x0 2 0 1 1>;
+		qcom,mem0 = <0 0x0 2 0 1 0>;
+		
+		//BANK 
+		qcom,page1 = <1 0x0A02 2 0x0f 1 1>;
+		qcom,poll1 = <0 0x0 2 0 1 1>;
+		qcom,mem1 = <0 0x0 2 0 1 0>;
+
+		//qcom,saddr2 = <0x20>;
+		qcom,page2 = <1 0x0A00 2 0x01 1 10>;
+		qcom,poll2 = <0 0x0 2 0 1 1>;
+		qcom,mem2 = <0 0x0 2 0 1 0>;
+
+		//qcom,saddr3 = <0x20>;
+		qcom,page3 = <0 0x0A02 2 0x04 1 5>;
+		qcom,poll3 = <0 0x0 2 0 1 1>;
+		qcom,mem3 = <64 0x0A04 2 0 1 0>;
+
+		//Disable NVM controller
+		//qcom,saddr4 = <0x20>;
+		qcom,page4 = <1 0x0A00 2 0x00 1 1>;
+		qcom,poll4 = <0 0x0 2 0 1 1>;
+		qcom,mem4 = <0 0x0 2 0 1 0>;
+		
+        cam_vdig-supply = <&pm8917_l23>;
+		cam_vio-supply = <&pm8917_l6>;
+		cam_vaf-supply = <&pm8917_l17>;
+		qcom,cam-vreg-name = "cam_vdig","cam_vio","cam_vaf";
+		qcom,cam-vreg-min-voltage = <1200000 1800000 2850000>;
+		qcom,cam-vreg-max-voltage = <1200000 1800000 2850000>;
+		qcom,cam-vreg-op-mode = <105000 105000 100000>;
+		pinctrl-names = "cam_default", "cam_suspend";
+		pinctrl-0 = <&cam_sensor_mclk0_default &cam_sensor_rear_default>;
+		pinctrl-1 = <&cam_sensor_mclk0_sleep &cam_sensor_rear_sleep>;
+		gpios = <&tlmm 26 0>,
+			<&tlmm 36 0>,
+			<&tlmm 27 0>;
+		qcom,gpio-reset = <1>;
+		qcom,gpio-vana = <2>;
+		qcom,gpio-req-tbl-num = <0 1 2>;
+		qcom,gpio-req-tbl-flags = <1 0 0>;
+		qcom,gpio-req-tbl-label = "CAMIF_MCLK0",
+			"CAM_RESET0",
+			"CAM_VANA0";
+		qcom,cam-power-seq-type = "sensor_gpio",
+					  "sensor_gpio", 
+					  "sensor_vreg",
+					  "sensor_vreg",
+					  "sensor_vreg",
+					  "sensor_clk",
+					  "sensor_gpio";
+		qcom,cam-power-seq-val =  "sensor_gpio_reset",
+					  "sensor_gpio_vana",
+					  "cam_vdig",
+					  "cam_vio",
+					  "cam_vaf",
+					  "sensor_cam_mclk",
+					  "sensor_gpio_reset";
+		qcom,cam-power-seq-cfg-val = <0 1 1 1 1 24000000 1>;
+		qcom,cam-power-seq-delay = <1 1 1 0 5 1 18>;
+
+		status = "ok";
+
+		clocks = <&clock_gcc clk_mclk0_clk_src>,
+				<&clock_gcc clk_gcc_camss_mclk0_clk>;
+		clock-names = "cam_src_clk", "cam_clk";
+		qcom,clock-rates = <19200000 0>;
+	};		
 	
 	qcom,camera@0 {
 		cell-index = <0>;
@@ -447,10 +527,10 @@
 		qcom,mount-angle = <90>;
 		
 		qcom,led-flash-src = <&led_flash0>;
-		qcom,eeprom-src = <&eeprom0>;
+		qcom,eeprom-src = <&eeprom0 &eeprom3>;
 		qcom,actuator-src = <&actuator0>;
 		
-        	cam_vdig-supply = <&pm8917_l23>;
+        cam_vdig-supply = <&pm8917_l23>;
 		cam_vio-supply = <&pm8917_l6>;
 		cam_vaf-supply = <&pm8917_l17>;
 
